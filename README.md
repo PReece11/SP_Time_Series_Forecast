@@ -35,6 +35,10 @@ This project builds a short-term forecasting model for SPY returns using a SARIM
   - DGS10 (lag 4)
 - Residual diagnostics (Ljung-Box)
 
+## Model Output
+![Forecast Output](visuals/Forecast.png)
+
+
 ## Results
 - RMSE: **6.17**
 - MAE: **5.17**
