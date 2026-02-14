@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ```
 2. Open and run the notebook:
 
-  notebooks/TimeSeriesFinal.ipynb
+   notebooks/TimeSeriesFinal.ipynb
 
 ## Authors
 
