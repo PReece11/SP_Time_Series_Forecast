@@ -41,11 +41,10 @@ Daily combined dataset including:
 ```bash
 pip install -r requirements.txt
 
-2. Open and run the notebook:
+```
+Open and run the notebook:
 
 notebooks/TimeSeriesFinal.ipynb
-
-```
 
 ## Authors
 
