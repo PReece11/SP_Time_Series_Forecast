@@ -35,8 +35,11 @@ Daily combined dataset including:
 - `docs/` — write-up (optional)
 
 ## Quickstart
-```bash
+
 pip install -r requirements.txt
+
+Open and run: notebooks/TimeSeriesFinal.ipynb
+
 ```
 
 ## Authors
