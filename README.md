@@ -36,7 +36,7 @@ This project builds a short-term forecasting model for SPY returns using a SARIM
 - Residual diagnostics (Ljung-Box)
 
 ## Model Output
-![Forecast Output](visuals/Forecast.png)
+![Forecast Output](visuals/forecast_vs_visuals.png)
 
 
 ## Results
