@@ -36,9 +36,10 @@ Daily combined dataset including:
 
 ## Quickstart
 
-pip install -r requirements.txt
+1. Install dependencies:
 
-Open and run: notebooks/TimeSeriesFinal.ipynb
+```bash
+pip install -r requirements.txt
 
 ```
 
