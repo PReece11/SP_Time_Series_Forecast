@@ -20,6 +20,21 @@ Daily combined dataset including:
 - Final: SARIMAX(1,0,1) + exogenous predictors (VIX lag 1, DGS10 lag 4)
 - Diagnostics: Ljung–Box + residual distribution checks
 
+## Model Summary
+
+This project builds a short-term forecasting model for SPY returns using a SARIMAX(1,0,1) model with exogenous predictors.
+
+### Methodology
+
+- Stationarity testing (ADF)
+- ACF/PACF analysis
+- Granger causality testing
+- Baseline: ARIMA(1,0,1)
+- Final: SARIMAX(1,0,1) with:
+  - VIX (lag 1)
+  - DGS10 (lag 4)
+- Residual diagnostics (Ljung-Box)
+
 ## Results
 - RMSE: **6.17**
 - MAE: **5.17**
