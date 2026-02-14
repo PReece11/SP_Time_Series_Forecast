@@ -42,7 +42,7 @@ Daily combined dataset including:
 pip install -r requirements.txt
 
 ```
-Open and run the notebook:
+2. Open and run the notebook:
 
 notebooks/TimeSeriesFinal.ipynb
 
