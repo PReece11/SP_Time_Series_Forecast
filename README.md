@@ -36,8 +36,7 @@ This project builds a short-term forecasting model for SPY returns using a SARIM
 - Residual diagnostics (Ljung-Box)
 
 ## Model Output
-![Forecast Output](visuals/forecast_vs_visuals.png)
-
+![Forecast Output](visuals/forecast_vs_actuals.png?raw=1)
 
 ## Results
 - RMSE: **6.17**
