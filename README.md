@@ -11,8 +11,6 @@ Daily combined dataset including:
 - **US 10-Year Treasury yield (DGS10)** → basis-point changes, lagged
 - **Bitcoin** was explored but excluded from the final model
 
-> **Note on scale:** The target is daily log return **[ADD: e.g., multiplied by 100 to express percent points]**.
-
 ## Methods
 - Stationarity checks (**ADF**)
 - **ACF/PACF** for order intuition
